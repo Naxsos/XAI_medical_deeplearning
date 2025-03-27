@@ -17,8 +17,13 @@ dist/
 build/
 *.egg-info/
 
+# Project specific folders
+/DL_for_HIN_Chest_X_Ray/
+DL_for_HIN_Chest_X_Ray/
+
 # IDE specific files
 .idea/
 .vscode/
 *.swp
 *.swo
+
